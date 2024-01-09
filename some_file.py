@@ -9,3 +9,4 @@ print("There are 5th local changes!")
 
 print("There are 6th local changes from work!")
 print("There are 7th local changes from work!")
+print("There are 8th local changes from work!")
